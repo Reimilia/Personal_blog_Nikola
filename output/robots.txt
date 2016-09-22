@@ -1,0 +1,4 @@
+Sitemap: https://panzer_wy.com/sitemapindex.xml
+
+User-Agent: *
+Host: panzer_wy.com
